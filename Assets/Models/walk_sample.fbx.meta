@@ -1,0 +1,1726 @@
+fileFormatVersion: 2
+guid: 8f7d3be80118f5f4b8187cbfdb6ff480
+timeCreated: 1522724715
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: walk_ML21S719_14_nagaiyuya:ALL_rig
+    100002: walk_ML21S719_14_nagaiyuya:Button1
+    100004: walk_ML21S719_14_nagaiyuya:Button2
+    100006: walk_ML21S719_14_nagaiyuya:Button3
+    100008: walk_ML21S719_14_nagaiyuya:camera1
+    100010: walk_ML21S719_14_nagaiyuya:Daney_Grp
+    100012: walk_ML21S719_14_nagaiyuya:group1
+    100014: walk_ML21S719_14_nagaiyuya:Hair
+    100016: walk_ML21S719_14_nagaiyuya:Head
+    100018: walk_ML21S719_14_nagaiyuya:Head_01
+    100020: walk_ML21S719_14_nagaiyuya:Head_02
+    100022: walk_ML21S719_14_nagaiyuya:head_rig
+    100024: walk_ML21S719_14_nagaiyuya:Hip_ctrl_01
+    100026: walk_ML21S719_14_nagaiyuya:Hip_ctrl_02
+    100028: walk_ML21S719_14_nagaiyuya:ikHandle1
+    100030: walk_ML21S719_14_nagaiyuya:ikHandle2
+    100032: walk_ML21S719_14_nagaiyuya:ikHandle3
+    100034: walk_ML21S719_14_nagaiyuya:ikHandle4
+    100036: walk_ML21S719_14_nagaiyuya:Inner
+    100038: walk_ML21S719_14_nagaiyuya:L_arm_rig
+    100040: walk_ML21S719_14_nagaiyuya:L_CollarBone_01
+    100042: walk_ML21S719_14_nagaiyuya:L_Elbow_01
+    100044: walk_ML21S719_14_nagaiyuya:L_Eye
+    100046: walk_ML21S719_14_nagaiyuya:L_Foot_01
+    100048: walk_ML21S719_14_nagaiyuya:L_Hand
+    100050: walk_ML21S719_14_nagaiyuya:L_hand_rig
+    100052: walk_ML21S719_14_nagaiyuya:L_Hip_01
+    100054: walk_ML21S719_14_nagaiyuya:L_Index_Finger_01
+    100056: walk_ML21S719_14_nagaiyuya:L_Index_Finger_02
+    100058: walk_ML21S719_14_nagaiyuya:L_Index_Finger_03
+    100060: walk_ML21S719_14_nagaiyuya:L_Index_Finger_04
+    100062: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_01
+    100064: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_01 1
+    100066: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_02
+    100068: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_02 1
+    100070: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_03
+    100072: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_03 1
+    100074: walk_ML21S719_14_nagaiyuya:L_Leg_01
+    100076: walk_ML21S719_14_nagaiyuya:L_Little_Finger_01
+    100078: walk_ML21S719_14_nagaiyuya:L_Little_Finger_02
+    100080: walk_ML21S719_14_nagaiyuya:L_Little_Finger_03
+    100082: walk_ML21S719_14_nagaiyuya:L_Little_Finger_04
+    100084: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_01
+    100086: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_01 1
+    100088: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_02
+    100090: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_02 1
+    100092: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_03
+    100094: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_03 1
+    100096: walk_ML21S719_14_nagaiyuya:L_Little_Ring
+    100098: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_01
+    100100: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_02
+    100102: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_03
+    100104: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_04
+    100106: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_01
+    100108: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_01 1
+    100110: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_02
+    100112: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_02 1
+    100114: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_03
+    100116: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_03 1
+    100118: walk_ML21S719_14_nagaiyuya:L_Reversfoot_01
+    100120: walk_ML21S719_14_nagaiyuya:L_Reversfoot_01_rig
+    100122: walk_ML21S719_14_nagaiyuya:L_Reversfoot_03_rig
+    100124: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_01
+    100126: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_02
+    100128: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_03
+    100130: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_04
+    100132: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_01
+    100134: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_01 1
+    100136: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_02
+    100138: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_02 1
+    100140: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_03
+    100142: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_03 1
+    100144: walk_ML21S719_14_nagaiyuya:L_Shoes
+    100146: walk_ML21S719_14_nagaiyuya:L_Shoulder_01
+    100148: walk_ML21S719_14_nagaiyuya:L_shoulder_rig
+    100150: walk_ML21S719_14_nagaiyuya:L_Thumb_01
+    100152: walk_ML21S719_14_nagaiyuya:L_Thumb_02
+    100154: walk_ML21S719_14_nagaiyuya:L_Thumb_03
+    100156: walk_ML21S719_14_nagaiyuya:L_Thumb_04
+    100158: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_01
+    100160: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_01 1
+    100162: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_02
+    100164: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_02 1
+    100166: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_03
+    100168: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_03 1
+    100170: walk_ML21S719_14_nagaiyuya:L_Toe_01
+    100172: walk_ML21S719_14_nagaiyuya:L_Toe_02
+    100174: walk_ML21S719_14_nagaiyuya:L_Wrist_01
+    100176: walk_ML21S719_14_nagaiyuya:Loot_Hip
+    100178: walk_ML21S719_14_nagaiyuya:Neck
+    100180: walk_ML21S719_14_nagaiyuya:Neck_01
+    100182: walk_ML21S719_14_nagaiyuya:Neck_rig
+    100184: walk_ML21S719_14_nagaiyuya:Outer
+    100186: walk_ML21S719_14_nagaiyuya:Pants
+    100188: walk_ML21S719_14_nagaiyuya:Pants_Button1
+    100190: walk_ML21S719_14_nagaiyuya:Pants_Button2
+    100192: walk_ML21S719_14_nagaiyuya:Pants_Button3
+    100194: walk_ML21S719_14_nagaiyuya:Pants_Button4
+    100196: walk_ML21S719_14_nagaiyuya:Pants_Grp
+    100198: walk_ML21S719_14_nagaiyuya:Pants_MainButton
+    100200: walk_ML21S719_14_nagaiyuya:pCube1
+    100202: walk_ML21S719_14_nagaiyuya:pCube2
+    100204: walk_ML21S719_14_nagaiyuya:pCube3
+    100206: walk_ML21S719_14_nagaiyuya:pCube4
+    100208: walk_ML21S719_14_nagaiyuya:pCube5
+    100210: walk_ML21S719_14_nagaiyuya:R_arm_rig
+    100212: walk_ML21S719_14_nagaiyuya:R_CollarBone_01
+    100214: walk_ML21S719_14_nagaiyuya:R_Elbow_01
+    100216: walk_ML21S719_14_nagaiyuya:R_Eye
+    100218: walk_ML21S719_14_nagaiyuya:R_Foot_01
+    100220: walk_ML21S719_14_nagaiyuya:R_Hand
+    100222: walk_ML21S719_14_nagaiyuya:R_hand_rig
+    100224: walk_ML21S719_14_nagaiyuya:R_Hip_01
+    100226: walk_ML21S719_14_nagaiyuya:R_Index_Finger_01
+    100228: walk_ML21S719_14_nagaiyuya:R_Index_Finger_02
+    100230: walk_ML21S719_14_nagaiyuya:R_Index_Finger_03
+    100232: walk_ML21S719_14_nagaiyuya:R_Index_Finger_04
+    100234: walk_ML21S719_14_nagaiyuya:R_Middle_Finger_01
+    100236: walk_ML21S719_14_nagaiyuya:R_Middle_Finger_02
+    100238: walk_ML21S719_14_nagaiyuya:R_Middle_Finger_03
+    100240: walk_ML21S719_14_nagaiyuya:R_Middle_Finger_04
+    100242: walk_ML21S719_14_nagaiyuya:R_Reg_01
+    100244: walk_ML21S719_14_nagaiyuya:R_Reversfoot_01
+    100246: walk_ML21S719_14_nagaiyuya:R_Reversfoot_01_rig
+    100248: walk_ML21S719_14_nagaiyuya:R_Reversfoot_03_rig
+    100250: walk_ML21S719_14_nagaiyuya:R_Ring_Finger_01
+    100252: walk_ML21S719_14_nagaiyuya:R_Ring_Finger_02
+    100254: walk_ML21S719_14_nagaiyuya:R_Ring_Finger_03
+    100256: walk_ML21S719_14_nagaiyuya:R_Ring_Finger_04
+    100258: walk_ML21S719_14_nagaiyuya:R_Rittle_Finger_01
+    100260: walk_ML21S719_14_nagaiyuya:R_Rittle_Finger_02
+    100262: walk_ML21S719_14_nagaiyuya:R_Rittle_Finger_03
+    100264: walk_ML21S719_14_nagaiyuya:R_Rittle_Finger_04
+    100266: walk_ML21S719_14_nagaiyuya:R_Rittle_Ring
+    100268: walk_ML21S719_14_nagaiyuya:R_Shoes
+    100270: walk_ML21S719_14_nagaiyuya:R_Shoulder_01
+    100272: walk_ML21S719_14_nagaiyuya:R_shoulder_rig
+    100274: walk_ML21S719_14_nagaiyuya:R_Thumb_01
+    100276: walk_ML21S719_14_nagaiyuya:R_Thumb_02
+    100278: walk_ML21S719_14_nagaiyuya:R_Thumb_03
+    100280: walk_ML21S719_14_nagaiyuya:R_Thumb_04
+    100282: walk_ML21S719_14_nagaiyuya:R_Toe_01
+    100284: walk_ML21S719_14_nagaiyuya:R_Toe_02
+    100286: walk_ML21S719_14_nagaiyuya:R_Wrist_01
+    100288: walk_ML21S719_14_nagaiyuya:Reversfoot_02
+    100290: walk_ML21S719_14_nagaiyuya:Reversfoot_02 1
+    100292: walk_ML21S719_14_nagaiyuya:Reversfoot_03
+    100294: walk_ML21S719_14_nagaiyuya:Reversfoot_03 1
+    100296: walk_ML21S719_14_nagaiyuya:Reversfoot_04
+    100298: walk_ML21S719_14_nagaiyuya:Reversfoot_04 1
+    100300: walk_ML21S719_14_nagaiyuya:Spine_01
+    100302: walk_ML21S719_14_nagaiyuya:Spine_01_rig
+    100304: walk_ML21S719_14_nagaiyuya:Spine_02
+    100306: walk_ML21S719_14_nagaiyuya:Spine_02_rig
+    100308: walk_ML21S719_14_nagaiyuya:Spine_03
+    100310: walk_ML21S719_14_nagaiyuya:Spine_03_rig
+    100312: walk_ML21S719_14_nagaiyuya:Tongue
+    100314: walk_ML21S719_14_nagaiyuya:Tooth_Bottom
+    100316: walk_ML21S719_14_nagaiyuya:Tooth_Top
+    100318: //RootNode
+    400000: walk_ML21S719_14_nagaiyuya:ALL_rig
+    400002: walk_ML21S719_14_nagaiyuya:Button1
+    400004: walk_ML21S719_14_nagaiyuya:Button2
+    400006: walk_ML21S719_14_nagaiyuya:Button3
+    400008: walk_ML21S719_14_nagaiyuya:camera1
+    400010: walk_ML21S719_14_nagaiyuya:Daney_Grp
+    400012: walk_ML21S719_14_nagaiyuya:group1
+    400014: walk_ML21S719_14_nagaiyuya:Hair
+    400016: walk_ML21S719_14_nagaiyuya:Head
+    400018: walk_ML21S719_14_nagaiyuya:Head_01
+    400020: walk_ML21S719_14_nagaiyuya:Head_02
+    400022: walk_ML21S719_14_nagaiyuya:head_rig
+    400024: walk_ML21S719_14_nagaiyuya:Hip_ctrl_01
+    400026: walk_ML21S719_14_nagaiyuya:Hip_ctrl_02
+    400028: walk_ML21S719_14_nagaiyuya:ikHandle1
+    400030: walk_ML21S719_14_nagaiyuya:ikHandle2
+    400032: walk_ML21S719_14_nagaiyuya:ikHandle3
+    400034: walk_ML21S719_14_nagaiyuya:ikHandle4
+    400036: walk_ML21S719_14_nagaiyuya:Inner
+    400038: walk_ML21S719_14_nagaiyuya:L_arm_rig
+    400040: walk_ML21S719_14_nagaiyuya:L_CollarBone_01
+    400042: walk_ML21S719_14_nagaiyuya:L_Elbow_01
+    400044: walk_ML21S719_14_nagaiyuya:L_Eye
+    400046: walk_ML21S719_14_nagaiyuya:L_Foot_01
+    400048: walk_ML21S719_14_nagaiyuya:L_Hand
+    400050: walk_ML21S719_14_nagaiyuya:L_hand_rig
+    400052: walk_ML21S719_14_nagaiyuya:L_Hip_01
+    400054: walk_ML21S719_14_nagaiyuya:L_Index_Finger_01
+    400056: walk_ML21S719_14_nagaiyuya:L_Index_Finger_02
+    400058: walk_ML21S719_14_nagaiyuya:L_Index_Finger_03
+    400060: walk_ML21S719_14_nagaiyuya:L_Index_Finger_04
+    400062: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_01
+    400064: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_01 1
+    400066: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_02
+    400068: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_02 1
+    400070: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_03
+    400072: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_03 1
+    400074: walk_ML21S719_14_nagaiyuya:L_Leg_01
+    400076: walk_ML21S719_14_nagaiyuya:L_Little_Finger_01
+    400078: walk_ML21S719_14_nagaiyuya:L_Little_Finger_02
+    400080: walk_ML21S719_14_nagaiyuya:L_Little_Finger_03
+    400082: walk_ML21S719_14_nagaiyuya:L_Little_Finger_04
+    400084: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_01
+    400086: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_01 1
+    400088: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_02
+    400090: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_02 1
+    400092: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_03
+    400094: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_03 1
+    400096: walk_ML21S719_14_nagaiyuya:L_Little_Ring
+    400098: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_01
+    400100: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_02
+    400102: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_03
+    400104: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_04
+    400106: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_01
+    400108: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_01 1
+    400110: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_02
+    400112: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_02 1
+    400114: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_03
+    400116: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_03 1
+    400118: walk_ML21S719_14_nagaiyuya:L_Reversfoot_01
+    400120: walk_ML21S719_14_nagaiyuya:L_Reversfoot_01_rig
+    400122: walk_ML21S719_14_nagaiyuya:L_Reversfoot_03_rig
+    400124: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_01
+    400126: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_02
+    400128: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_03
+    400130: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_04
+    400132: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_01
+    400134: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_01 1
+    400136: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_02
+    400138: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_02 1
+    400140: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_03
+    400142: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_03 1
+    400144: walk_ML21S719_14_nagaiyuya:L_Shoes
+    400146: walk_ML21S719_14_nagaiyuya:L_Shoulder_01
+    400148: walk_ML21S719_14_nagaiyuya:L_shoulder_rig
+    400150: walk_ML21S719_14_nagaiyuya:L_Thumb_01
+    400152: walk_ML21S719_14_nagaiyuya:L_Thumb_02
+    400154: walk_ML21S719_14_nagaiyuya:L_Thumb_03
+    400156: walk_ML21S719_14_nagaiyuya:L_Thumb_04
+    400158: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_01
+    400160: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_01 1
+    400162: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_02
+    400164: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_02 1
+    400166: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_03
+    400168: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_03 1
+    400170: walk_ML21S719_14_nagaiyuya:L_Toe_01
+    400172: walk_ML21S719_14_nagaiyuya:L_Toe_02
+    400174: walk_ML21S719_14_nagaiyuya:L_Wrist_01
+    400176: walk_ML21S719_14_nagaiyuya:Loot_Hip
+    400178: walk_ML21S719_14_nagaiyuya:Neck
+    400180: walk_ML21S719_14_nagaiyuya:Neck_01
+    400182: walk_ML21S719_14_nagaiyuya:Neck_rig
+    400184: walk_ML21S719_14_nagaiyuya:Outer
+    400186: walk_ML21S719_14_nagaiyuya:Pants
+    400188: walk_ML21S719_14_nagaiyuya:Pants_Button1
+    400190: walk_ML21S719_14_nagaiyuya:Pants_Button2
+    400192: walk_ML21S719_14_nagaiyuya:Pants_Button3
+    400194: walk_ML21S719_14_nagaiyuya:Pants_Button4
+    400196: walk_ML21S719_14_nagaiyuya:Pants_Grp
+    400198: walk_ML21S719_14_nagaiyuya:Pants_MainButton
+    400200: walk_ML21S719_14_nagaiyuya:pCube1
+    400202: walk_ML21S719_14_nagaiyuya:pCube2
+    400204: walk_ML21S719_14_nagaiyuya:pCube3
+    400206: walk_ML21S719_14_nagaiyuya:pCube4
+    400208: walk_ML21S719_14_nagaiyuya:pCube5
+    400210: walk_ML21S719_14_nagaiyuya:R_arm_rig
+    400212: walk_ML21S719_14_nagaiyuya:R_CollarBone_01
+    400214: walk_ML21S719_14_nagaiyuya:R_Elbow_01
+    400216: walk_ML21S719_14_nagaiyuya:R_Eye
+    400218: walk_ML21S719_14_nagaiyuya:R_Foot_01
+    400220: walk_ML21S719_14_nagaiyuya:R_Hand
+    400222: walk_ML21S719_14_nagaiyuya:R_hand_rig
+    400224: walk_ML21S719_14_nagaiyuya:R_Hip_01
+    400226: walk_ML21S719_14_nagaiyuya:R_Index_Finger_01
+    400228: walk_ML21S719_14_nagaiyuya:R_Index_Finger_02
+    400230: walk_ML21S719_14_nagaiyuya:R_Index_Finger_03
+    400232: walk_ML21S719_14_nagaiyuya:R_Index_Finger_04
+    400234: walk_ML21S719_14_nagaiyuya:R_Middle_Finger_01
+    400236: walk_ML21S719_14_nagaiyuya:R_Middle_Finger_02
+    400238: walk_ML21S719_14_nagaiyuya:R_Middle_Finger_03
+    400240: walk_ML21S719_14_nagaiyuya:R_Middle_Finger_04
+    400242: walk_ML21S719_14_nagaiyuya:R_Reg_01
+    400244: walk_ML21S719_14_nagaiyuya:R_Reversfoot_01
+    400246: walk_ML21S719_14_nagaiyuya:R_Reversfoot_01_rig
+    400248: walk_ML21S719_14_nagaiyuya:R_Reversfoot_03_rig
+    400250: walk_ML21S719_14_nagaiyuya:R_Ring_Finger_01
+    400252: walk_ML21S719_14_nagaiyuya:R_Ring_Finger_02
+    400254: walk_ML21S719_14_nagaiyuya:R_Ring_Finger_03
+    400256: walk_ML21S719_14_nagaiyuya:R_Ring_Finger_04
+    400258: walk_ML21S719_14_nagaiyuya:R_Rittle_Finger_01
+    400260: walk_ML21S719_14_nagaiyuya:R_Rittle_Finger_02
+    400262: walk_ML21S719_14_nagaiyuya:R_Rittle_Finger_03
+    400264: walk_ML21S719_14_nagaiyuya:R_Rittle_Finger_04
+    400266: walk_ML21S719_14_nagaiyuya:R_Rittle_Ring
+    400268: walk_ML21S719_14_nagaiyuya:R_Shoes
+    400270: walk_ML21S719_14_nagaiyuya:R_Shoulder_01
+    400272: walk_ML21S719_14_nagaiyuya:R_shoulder_rig
+    400274: walk_ML21S719_14_nagaiyuya:R_Thumb_01
+    400276: walk_ML21S719_14_nagaiyuya:R_Thumb_02
+    400278: walk_ML21S719_14_nagaiyuya:R_Thumb_03
+    400280: walk_ML21S719_14_nagaiyuya:R_Thumb_04
+    400282: walk_ML21S719_14_nagaiyuya:R_Toe_01
+    400284: walk_ML21S719_14_nagaiyuya:R_Toe_02
+    400286: walk_ML21S719_14_nagaiyuya:R_Wrist_01
+    400288: walk_ML21S719_14_nagaiyuya:Reversfoot_02
+    400290: walk_ML21S719_14_nagaiyuya:Reversfoot_02 1
+    400292: walk_ML21S719_14_nagaiyuya:Reversfoot_03
+    400294: walk_ML21S719_14_nagaiyuya:Reversfoot_03 1
+    400296: walk_ML21S719_14_nagaiyuya:Reversfoot_04
+    400298: walk_ML21S719_14_nagaiyuya:Reversfoot_04 1
+    400300: walk_ML21S719_14_nagaiyuya:Spine_01
+    400302: walk_ML21S719_14_nagaiyuya:Spine_01_rig
+    400304: walk_ML21S719_14_nagaiyuya:Spine_02
+    400306: walk_ML21S719_14_nagaiyuya:Spine_02_rig
+    400308: walk_ML21S719_14_nagaiyuya:Spine_03
+    400310: walk_ML21S719_14_nagaiyuya:Spine_03_rig
+    400312: walk_ML21S719_14_nagaiyuya:Tongue
+    400314: walk_ML21S719_14_nagaiyuya:Tooth_Bottom
+    400316: walk_ML21S719_14_nagaiyuya:Tooth_Top
+    400318: //RootNode
+    2000000: walk_ML21S719_14_nagaiyuya:camera1
+    2100000: lambert1
+    2100002: walk_ML21S719_14_nagaiyuya_blinn1
+    2300000: walk_ML21S719_14_nagaiyuya:pCube1
+    2300002: walk_ML21S719_14_nagaiyuya:pCube2
+    2300004: walk_ML21S719_14_nagaiyuya:pCube3
+    2300006: walk_ML21S719_14_nagaiyuya:pCube4
+    3300000: walk_ML21S719_14_nagaiyuya:pCube1
+    3300002: walk_ML21S719_14_nagaiyuya:pCube2
+    3300004: walk_ML21S719_14_nagaiyuya:pCube3
+    3300006: walk_ML21S719_14_nagaiyuya:pCube4
+    4300000: walk_ML21S719_14_nagaiyuya:pCube1
+    4300002: walk_ML21S719_14_nagaiyuya:pCube2
+    4300004: walk_ML21S719_14_nagaiyuya:pCube3
+    4300006: walk_ML21S719_14_nagaiyuya:pCube4
+    4300008: walk_ML21S719_14_nagaiyuya:Head
+    4300010: walk_ML21S719_14_nagaiyuya:L_Eye
+    4300012: walk_ML21S719_14_nagaiyuya:R_Eye
+    4300014: walk_ML21S719_14_nagaiyuya:Neck
+    4300016: walk_ML21S719_14_nagaiyuya:L_Hand
+    4300018: walk_ML21S719_14_nagaiyuya:R_Hand
+    4300020: walk_ML21S719_14_nagaiyuya:Inner
+    4300022: walk_ML21S719_14_nagaiyuya:L_Shoes
+    4300024: walk_ML21S719_14_nagaiyuya:Tooth_Bottom
+    4300026: walk_ML21S719_14_nagaiyuya:Tooth_Top
+    4300028: walk_ML21S719_14_nagaiyuya:Tongue
+    4300030: walk_ML21S719_14_nagaiyuya:Button1
+    4300032: walk_ML21S719_14_nagaiyuya:Button2
+    4300034: walk_ML21S719_14_nagaiyuya:Button3
+    4300036: walk_ML21S719_14_nagaiyuya:Hair
+    4300038: walk_ML21S719_14_nagaiyuya:Outer
+    4300040: walk_ML21S719_14_nagaiyuya:R_Shoes
+    4300042: walk_ML21S719_14_nagaiyuya:Pants
+    4300044: walk_ML21S719_14_nagaiyuya:Pants_MainButton
+    4300046: walk_ML21S719_14_nagaiyuya:Pants_Button1
+    4300048: walk_ML21S719_14_nagaiyuya:Pants_Button2
+    4300050: walk_ML21S719_14_nagaiyuya:Pants_Button3
+    4300052: walk_ML21S719_14_nagaiyuya:Pants_Button4
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: walk_ML21S719_14_nagaiyuya:Button1
+    13700002: walk_ML21S719_14_nagaiyuya:Button2
+    13700004: walk_ML21S719_14_nagaiyuya:Button3
+    13700006: walk_ML21S719_14_nagaiyuya:Hair
+    13700008: walk_ML21S719_14_nagaiyuya:Head
+    13700010: walk_ML21S719_14_nagaiyuya:Inner
+    13700012: walk_ML21S719_14_nagaiyuya:L_Eye
+    13700014: walk_ML21S719_14_nagaiyuya:L_Hand
+    13700016: walk_ML21S719_14_nagaiyuya:L_Shoes
+    13700018: walk_ML21S719_14_nagaiyuya:Neck
+    13700020: walk_ML21S719_14_nagaiyuya:Outer
+    13700022: walk_ML21S719_14_nagaiyuya:Pants
+    13700024: walk_ML21S719_14_nagaiyuya:Pants_Button1
+    13700026: walk_ML21S719_14_nagaiyuya:Pants_Button2
+    13700028: walk_ML21S719_14_nagaiyuya:Pants_Button3
+    13700030: walk_ML21S719_14_nagaiyuya:Pants_Button4
+    13700032: walk_ML21S719_14_nagaiyuya:Pants_MainButton
+    13700034: walk_ML21S719_14_nagaiyuya:R_Eye
+    13700036: walk_ML21S719_14_nagaiyuya:R_Hand
+    13700038: walk_ML21S719_14_nagaiyuya:R_Shoes
+    13700040: walk_ML21S719_14_nagaiyuya:Tongue
+    13700042: walk_ML21S719_14_nagaiyuya:Tooth_Bottom
+    13700044: walk_ML21S719_14_nagaiyuya:Tooth_Top
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'walk_ML21S719_14_nagaiyuya:Loot_Hip' has translation
+      animation that will be discarded.\n\t'walk_ML21S719_14_nagaiyuya:Loot_Hip' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: walk_ML21S719_14_nagaiyuya:ALL_rig
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Hip_01
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Hip_01
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Leg_01
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Reg_01
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Foot_01
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Foot_01
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:Spine_01
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:Spine_02
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:Neck_01
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:Head_01
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_CollarBone_01
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_CollarBone_01
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Shoulder_01
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Shoulder_01
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Elbow_01
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Elbow_01
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Wrist_01
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Wrist_01
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Toe_01
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Toe_01
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:Head_02
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Thumb_01
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Thumb_02
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Thumb_03
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Index_Finger_01
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Index_Finger_02
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Index_Finger_03
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_01
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_02
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_03
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Little_Finger_02
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Little_Finger_03
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Little_Finger_04
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_02
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_03
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_04
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Thumb_01
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Thumb_02
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Thumb_03
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Index_Finger_01
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Index_Finger_02
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Index_Finger_03
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Ring_Finger_01
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Ring_Finger_02
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Ring_Finger_03
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Middle_Finger_01
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Middle_Finger_02
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Middle_Finger_03
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Rittle_Finger_01
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Rittle_Finger_02
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:R_Rittle_Finger_03
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: walk_ML21S719_14_nagaiyuya:Spine_03
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: walk_sample(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:camera1
+      parentName: walk_sample(Clone)
+      position: {x: -0.3267209, y: 1.4237367, z: -0.3256009}
+      rotation: {x: 0.05173425, y: -0.92888045, z: 0.14213869, w: 0.33808482}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:group1
+      parentName: walk_sample(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:ALL_rig
+      parentName: walk_ML21S719_14_nagaiyuya:group1
+      position: {x: 0, y: 0.0877163, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:Hip_ctrl_01
+      parentName: walk_ML21S719_14_nagaiyuya:ALL_rig
+      position: {x: -0, y: 0.834828, z: 0.11651199}
+      rotation: {x: 0.044524617, y: -0.042587046, z: -0.0120201465, w: 0.9980278}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:Hip_ctrl_02
+      parentName: walk_ML21S719_14_nagaiyuya:Hip_ctrl_01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_arm_rig
+      parentName: walk_ML21S719_14_nagaiyuya:Hip_ctrl_01
+      position: {x: -0.19768135, y: -0.0041706082, z: -0.15726663}
+      rotation: {x: 0.083167054, y: -0.08364645, z: 0.7001496, w: 0.7041854}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:R_arm_rig
+      parentName: walk_ML21S719_14_nagaiyuya:Hip_ctrl_01
+      position: {x: 0.22120921, y: 0.07356869, z: 0.19326818}
+      rotation: {x: -0.29994264, y: -0.31546405, z: -0.62034595, w: 0.6524475}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:Spine_01_rig
+      parentName: walk_ML21S719_14_nagaiyuya:Hip_ctrl_01
+      position: {x: 1.9721522e-33, y: 0.042539433, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:Spine_02_rig
+      parentName: walk_ML21S719_14_nagaiyuya:Hip_ctrl_01
+      position: {x: 3.5521134e-19, y: 0.14486402, z: -0.0034491434}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:Spine_03_rig
+      parentName: walk_ML21S719_14_nagaiyuya:Hip_ctrl_01
+      position: {x: 3.5521134e-19, y: 0.35411206, z: -0.010347431}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_shoulder_rig
+      parentName: walk_ML21S719_14_nagaiyuya:Spine_03_rig
+      position: {x: -0.040484138, y: 0.06294276, z: 0.00613833}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:Neck_rig
+      parentName: walk_ML21S719_14_nagaiyuya:Spine_03_rig
+      position: {x: 8.776077e-31, y: 0.070132576, z: 0.0057485723}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:head_rig
+      parentName: walk_ML21S719_14_nagaiyuya:Neck_rig
+      position: {x: -1.50278e-30, y: 0.35383812, z: 0.0011497145}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:R_shoulder_rig
+      parentName: walk_ML21S719_14_nagaiyuya:Spine_03_rig
+      position: {x: 0.040484097, y: 0.06294361, z: 0.006138309}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:ikHandle1
+      parentName: walk_ML21S719_14_nagaiyuya:ALL_rig
+      position: {x: -0.18302536, y: 0.8507611, z: -0.053477835}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:ikHandle2
+      parentName: walk_ML21S719_14_nagaiyuya:ALL_rig
+      position: {x: -0.05879137, y: 0.116489656, z: 0.40738228}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:ikHandle3
+      parentName: walk_ML21S719_14_nagaiyuya:ALL_rig
+      position: {x: 0.20530468, y: 0.88534886, z: 0.32899314}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:ikHandle4
+      parentName: walk_ML21S719_14_nagaiyuya:ALL_rig
+      position: {x: 0.06017128, y: 0.15448223, z: -0.17118937}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_hand_rig
+      parentName: walk_ML21S719_14_nagaiyuya:ALL_rig
+      position: {x: -0.18302536, y: 0.8507611, z: -0.05347783}
+      rotation: {x: 0.080235295, y: -0.14001183, z: 0.6908067, w: 0.7048015}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_01
+      parentName: walk_ML21S719_14_nagaiyuya:L_hand_rig
+      position: {x: -0.1377529, y: 0.01118454, z: 0.040603112}
+      rotation: {x: 0, y: 0, z: 0.33784568, w: 0.94120157}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_02
+      parentName: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_01
+      position: {x: -0.046434548, y: 0.000000012647832, z: 0.0022244086}
+      rotation: {x: 0, y: 0, z: 0.25757346, w: 0.96625876}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_03
+      parentName: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_02
+      position: {x: -0.033644196, y: 0.0000000015809777, z: 0.0002780506}
+      rotation: {x: 0, y: 0, z: 0.25757346, w: 0.96625876}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_01
+      parentName: walk_ML21S719_14_nagaiyuya:L_hand_rig
+      position: {x: -0.1252005, y: -0.009131774, z: -0.049127765}
+      rotation: {x: 0, y: 0, z: 0.2131238, w: 0.9770252}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_02
+      parentName: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_01
+      position: {x: -0.03950978, y: -0.000000022999561, z: -0.004044999}
+      rotation: {x: 0, y: 0, z: 0.2131238, w: 0.9770252}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_03
+      parentName: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_02
+      position: {x: -0.01584552, y: -0.0000000027290232, z: -0.00047996166}
+      rotation: {x: 0, y: 0, z: 0.33784568, w: 0.94120157}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_01
+      parentName: walk_ML21S719_14_nagaiyuya:L_hand_rig
+      position: {x: -0.14498222, y: 0.008252716, z: 0.008627245}
+      rotation: {x: 0, y: 0, z: 0.33784568, w: 0.94120157}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_02
+      parentName: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_01
+      position: {x: -0.058112696, y: 0.000000011066853, z: 0.0019463573}
+      rotation: {x: 0, y: 0, z: 0.1636517, w: 0.9865182}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_03
+      parentName: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_02
+      position: {x: -0.02140994, y: -0.0000000031619696, z: -0.0005561027}
+      rotation: {x: 0, y: 0, z: 0.1636517, w: 0.9865182}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_01
+      parentName: walk_ML21S719_14_nagaiyuya:L_hand_rig
+      position: {x: -0.1305236, y: 0.0026148986, z: -0.021007923}
+      rotation: {x: 0, y: 0, z: 0.33784568, w: 0.94120157}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_02
+      parentName: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_01
+      position: {x: -0.06422982, y: -0.000000015809787, z: -0.002780513}
+      rotation: {x: 0, y: 0, z: 0.19459175, w: 0.9808843}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_03
+      parentName: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_02
+      position: {x: -0.04014745, y: -0.000000008697621, z: -0.0015296731}
+      rotation: {x: 0, y: 0, z: 0.19459175, w: 0.9808843}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_01
+      parentName: walk_ML21S719_14_nagaiyuya:L_hand_rig
+      position: {x: -0.040156934, y: -0.013462067, z: 0.046720378}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_02
+      parentName: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_01
+      position: {x: -0.04455625, y: -0.0055303723, z: 0.032532018}
+      rotation: {x: 0.0076339515, y: -0.20760214, z: 0.017701037, w: 0.9780234}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_03
+      parentName: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_02
+      position: {x: -0.034906767, y: -0.0026449906, z: 0.010287908}
+      rotation: {x: -0.007614167, y: -0.11687976, z: 0.00036437684, w: 0.99311686}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Reversfoot_01
+      parentName: walk_ML21S719_14_nagaiyuya:ALL_rig
+      position: {x: -0.05879137, y: 0.050798573, z: 0.4279129}
+      rotation: {x: -0.14546467, y: 0.6919827, z: -0.14546467, w: 0.6919827}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:Reversfoot_02
+      parentName: walk_ML21S719_14_nagaiyuya:L_Reversfoot_01
+      position: {x: -0.21966848, y: -0.007858553, z: -4.9303805e-34}
+      rotation: {x: -0.0143512, y: 0.99989706, z: 6.122604e-17, w: -8.787576e-19}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:Reversfoot_03
+      parentName: walk_ML21S719_14_nagaiyuya:Reversfoot_02
+      position: {x: -0.13455692, y: -0.0006286059, z: -7.698202e-20}
+      rotation: {x: -1.1397596e-16, y: 1.0286076e-17, z: -0.35226196, w: 0.93590146}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:Reversfoot_04
+      parentName: walk_ML21S719_14_nagaiyuya:Reversfoot_03
+      position: {x: -0.10647431, y: 0.00074892683, z: 8.168786e-18}
+      rotation: {x: -0.2386935, y: 0.66560155, z: 0.2386935, w: 0.66560155}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Reversfoot_01_rig
+      parentName: walk_ML21S719_14_nagaiyuya:ALL_rig
+      position: {x: -0.05879137, y: 0.051812943, z: 0.43397176}
+      rotation: {x: -0.2058199, y: 0, z: -0, w: 0.9785899}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Reversfoot_03_rig
+      parentName: walk_ML21S719_14_nagaiyuya:L_Reversfoot_01_rig
+      position: {x: -8.881784e-18, y: -0.0037722944, z: 0.08519098}
+      rotation: {x: 0.023560008, y: -0, z: -0, w: 0.9997224}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:pCube1
+      parentName: walk_ML21S719_14_nagaiyuya:ALL_rig
+      position: {x: 0.33717936, y: 1.0960524, z: -0.56369305}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.37772456, y: 0.37772456, z: 0.37772456}
+    - name: walk_ML21S719_14_nagaiyuya:pCube2
+      parentName: walk_ML21S719_14_nagaiyuya:ALL_rig
+      position: {x: -0.33604094, y: 1.0957968, z: -0.56413114}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.37772456, y: 0.37772456, z: 0.37772456}
+    - name: walk_ML21S719_14_nagaiyuya:pCube3
+      parentName: walk_ML21S719_14_nagaiyuya:ALL_rig
+      position: {x: -0.05943793, y: 0.50079197, z: 0.8302948}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.37772456, y: 0.37772456, z: 0.37772456}
+    - name: walk_ML21S719_14_nagaiyuya:pCube4
+      parentName: walk_ML21S719_14_nagaiyuya:ALL_rig
+      position: {x: 0.059785683, y: 0.500806, z: 0.8538339}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.37772456, y: 0.37772456, z: 0.37772456}
+    - name: walk_ML21S719_14_nagaiyuya:R_hand_rig
+      parentName: walk_ML21S719_14_nagaiyuya:ALL_rig
+      position: {x: 0.20530468, y: 0.88534886, z: 0.32899314}
+      rotation: {x: -0.2457262, y: -0.30763048, z: -0.65420496, w: 0.6457538}
+      scale: {x: -1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_01 1
+      parentName: walk_ML21S719_14_nagaiyuya:R_hand_rig
+      position: {x: -0.1410221, y: 0.01118454, z: 0.040603112}
+      rotation: {x: 0, y: 0, z: 0.21437147, w: 0.9767522}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_02 1
+      parentName: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_01 1
+      position: {x: -0.046434548, y: 0.000000012647832, z: 0.0022244086}
+      rotation: {x: 0, y: 0, z: 0.21437147, w: 0.9767522}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_03 1
+      parentName: walk_ML21S719_14_nagaiyuya:L_Index_Finger_rig_02 1
+      position: {x: -0.033644196, y: 0.0000000015809777, z: 0.0002780506}
+      rotation: {x: 0, y: 0, z: 0.21437147, w: 0.9767522}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_01 1
+      parentName: walk_ML21S719_14_nagaiyuya:R_hand_rig
+      position: {x: -0.12846969, y: -0.009131774, z: -0.049127765}
+      rotation: {x: 0, y: 0, z: 0.32857412, w: 0.9444782}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_02 1
+      parentName: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_01 1
+      position: {x: -0.03950978, y: -0.000000022999561, z: -0.004044999}
+      rotation: {x: 0, y: 0, z: 0.32857412, w: 0.9444782}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_03 1
+      parentName: walk_ML21S719_14_nagaiyuya:L_Little_Finger_rig_02 1
+      position: {x: -0.01584552, y: -0.0000000027290232, z: -0.00047996166}
+      rotation: {x: 0, y: 0, z: 0.32857412, w: 0.9444782}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_01 1
+      parentName: walk_ML21S719_14_nagaiyuya:R_hand_rig
+      position: {x: -0.14825141, y: 0.008252716, z: 0.008627245}
+      rotation: {x: 0, y: 0, z: 0.25842047, w: 0.96603256}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_02 1
+      parentName: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_01 1
+      position: {x: -0.058112696, y: 0.000000011066853, z: 0.0019463573}
+      rotation: {x: 0, y: 0, z: 0.14675689, w: 0.9891726}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_03 1
+      parentName: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_rig_02 1
+      position: {x: -0.02140994, y: -0.0000000031619696, z: -0.0005561027}
+      rotation: {x: 0, y: 0, z: 0.32857412, w: 0.9444782}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_01 1
+      parentName: walk_ML21S719_14_nagaiyuya:R_hand_rig
+      position: {x: -0.1337928, y: 0.0026148986, z: -0.021007923}
+      rotation: {x: 0, y: 0, z: 0.2615285, w: 0.9651958}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_02 1
+      parentName: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_01 1
+      position: {x: -0.06422982, y: -0.000000015809787, z: -0.002780513}
+      rotation: {x: 0, y: 0, z: 0.32857412, w: 0.9444782}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_03 1
+      parentName: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_rig_02 1
+      position: {x: -0.04014745, y: -0.000000008697621, z: -0.0015296731}
+      rotation: {x: 0, y: 0, z: 0.32857412, w: 0.9444782}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_01 1
+      parentName: walk_ML21S719_14_nagaiyuya:R_hand_rig
+      position: {x: -0.04342613, y: -0.013462067, z: 0.046720378}
+      rotation: {x: 0, y: 0, z: 0.20197552, w: 0.97939056}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_02 1
+      parentName: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_01 1
+      position: {x: -0.04455625, y: -0.0055303723, z: 0.032532018}
+      rotation: {x: 0.69993746, y: -0.1465384, z: -0.20596844, w: 0.66797537}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_03 1
+      parentName: walk_ML21S719_14_nagaiyuya:L_Thumb_rig_02 1
+      position: {x: -0.034906767, y: -0.0026449906, z: 0.010287908}
+      rotation: {x: -0.43366838, y: -0.083632514, z: 0.2503734, w: 0.86153966}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:R_Reversfoot_01
+      parentName: walk_ML21S719_14_nagaiyuya:ALL_rig
+      position: {x: 0.060131185, y: 0.070967875, z: -0.2424643}
+      rotation: {x: 0.07491256, y: 0.7031274, z: 0.07491256, w: 0.7031274}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:Reversfoot_02 1
+      parentName: walk_ML21S719_14_nagaiyuya:R_Reversfoot_01
+      position: {x: -0.21966848, y: -0.007858553, z: -4.9303805e-34}
+      rotation: {x: -0.0143512, y: 0.99989706, z: 6.122604e-17, w: -8.787576e-19}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:Reversfoot_03 1
+      parentName: walk_ML21S719_14_nagaiyuya:Reversfoot_02 1
+      position: {x: -0.13455692, y: -0.0006286059, z: -7.698202e-20}
+      rotation: {x: -2.2210364e-17, y: 6.283611e-17, z: -0.5781056, w: 0.815962}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:Reversfoot_04 1
+      parentName: walk_ML21S719_14_nagaiyuya:Reversfoot_03 1
+      position: {x: -0.10647431, y: 0.00074892683, z: 8.168786e-18}
+      rotation: {x: -0.2386935, y: 0.66560155, z: 0.2386935, w: 0.66560155}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:R_Reversfoot_01_rig
+      parentName: walk_ML21S719_14_nagaiyuya:ALL_rig
+      position: {x: 0.060131185, y: 0.067124106, z: -0.24352667}
+      rotation: {x: 0.11091984, y: -0, z: -0, w: 0.99382937}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:R_Reversfoot_03_rig
+      parentName: walk_ML21S719_14_nagaiyuya:R_Reversfoot_01_rig
+      position: {x: -8.881784e-18, y: -0.0037722944, z: 0.08519098}
+      rotation: {x: 0.28590366, y: -0, z: -0, w: 0.9582584}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:Loot_Hip
+      parentName: walk_ML21S719_14_nagaiyuya:ALL_rig
+      position: {x: -0, y: 0.8375217, z: 0.116512}
+      rotation: {x: 6.28037e-16, y: 0.0000000041159036, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1.00001, y: 1.0000103, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Hip_01
+      parentName: walk_ML21S719_14_nagaiyuya:Loot_Hip
+      position: {x: 0.06471757, y: -0.059784945, z: 0.013781685}
+      rotation: {x: -0.018645613, y: 0.7067923, z: 0.7070274, w: 0.014470488}
+      scale: {x: 1.0000046, y: 1.0000033, z: 1.0000033}
+    - name: walk_ML21S719_14_nagaiyuya:L_Leg_01
+      parentName: walk_ML21S719_14_nagaiyuya:L_Hip_01
+      position: {x: -0.358738, y: -0.0025455463, z: -0.0022044345}
+      rotation: {x: -4.0745357e-10, y: -0.000000005587935, z: 0.079030566, w: 0.9968722}
+      scale: {x: 1.0000008, y: 1.0000019, z: 1.0000001}
+    - name: walk_ML21S719_14_nagaiyuya:L_Foot_01
+      parentName: walk_ML21S719_14_nagaiyuya:L_Leg_01
+      position: {x: -0.41255713, y: 0.006413533, z: -0.002300337}
+      rotation: {x: 0.0032223668, y: -0.0017738086, z: -0.48221898, w: 0.876043}
+      scale: {x: 0.99999964, y: 1.0000012, z: 1.0000011}
+    - name: walk_ML21S719_14_nagaiyuya:L_Toe_01
+      parentName: walk_ML21S719_14_nagaiyuya:L_Foot_01
+      position: {x: -0.10588024, y: -4.025798e-17, z: -1.9506474e-16}
+      rotation: {x: -0.0007642049, y: -0.0021331764, z: -0.3257449, w: 0.945455}
+      scale: {x: 1.0000055, y: 0.9999968, z: 1.0000017}
+    - name: walk_ML21S719_14_nagaiyuya:L_Toe_02
+      parentName: walk_ML21S719_14_nagaiyuya:L_Toe_01
+      position: {x: -0.13489313, y: 7.614399e-19, z: 4.719518e-18}
+      rotation: {x: -0.0072657103, y: -0.70709944, z: -0.0032068954, w: 0.7070696}
+      scale: {x: 0.99999994, y: 1.0000002, z: 0.99999964}
+    - name: walk_ML21S719_14_nagaiyuya:Spine_01
+      parentName: walk_ML21S719_14_nagaiyuya:Loot_Hip
+      position: {x: -0.042539433, y: 9.4456515e-18, z: 0}
+      rotation: {x: 0.7070064, y: -0.011912495, z: 0.011912553, w: 0.7070065}
+      scale: {x: 1.0000055, y: 1.0000086, z: 1.000007}
+    - name: walk_ML21S719_14_nagaiyuya:Spine_02
+      parentName: walk_ML21S719_14_nagaiyuya:Spine_01
+      position: {x: -0.1023827, y: 8.437695e-17, z: -2.3075833e-17}
+      rotation: {x: 0.00000008940696, y: -0.00000002235174, z: -0.00037007773, w: 1}
+      scale: {x: 1.0000029, y: 1.0000029, z: 1.0000025}
+    - name: walk_ML21S719_14_nagaiyuya:Spine_03
+      parentName: walk_ML21S719_14_nagaiyuya:Spine_02
+      position: {x: -0.2093617, y: -2.7200464e-15, z: -4.6427993e-17}
+      rotation: {x: -0.9983548, y: 0.057338364, z: 0.0000000022876916, w: 9.019058e-10}
+      scale: {x: 1, y: 1, z: 1.0000014}
+    - name: walk_ML21S719_14_nagaiyuya:Neck_01
+      parentName: walk_ML21S719_14_nagaiyuya:Spine_03
+      position: {x: -0.07036778, y: -4.6185276e-16, z: 1.3772226e-17}
+      rotation: {x: -0.00000002807488, y: 0.00000006410013, z: -0.036030263, w: 0.9993508}
+      scale: {x: 1.0000069, y: 1.0000054, z: 1.0000056}
+    - name: walk_ML21S719_14_nagaiyuya:Head_01
+      parentName: walk_ML21S719_14_nagaiyuya:Neck_01
+      position: {x: -0.11842617, y: 8.881784e-18, z: 2.619809e-17}
+      rotation: {x: 0.00000005959945, y: -0.000000042274134, z: -0.004854179, w: 0.99998826}
+      scale: {x: 1.0000027, y: 1.0000029, z: 1.0000043}
+    - name: walk_ML21S719_14_nagaiyuya:Head_02
+      parentName: walk_ML21S719_14_nagaiyuya:Head_01
+      position: {x: -0.1989006, y: 6.128431e-16, z: 4.466686e-17}
+      rotation: {x: 0.5, y: -0.50000006, z: 0.5, w: 0.50000006}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: walk_ML21S719_14_nagaiyuya:L_CollarBone_01
+      parentName: walk_ML21S719_14_nagaiyuya:Spine_03
+      position: {x: -0.06323383, y: -0.0009758152, z: -0.040484138}
+      rotation: {x: 0.37627319, y: -0.5986806, z: 0.56594056, w: 0.4239237}
+      scale: {x: 1.0000025, y: 1.0000018, z: 1.0000019}
+    - name: walk_ML21S719_14_nagaiyuya:L_Shoulder_01
+      parentName: walk_ML21S719_14_nagaiyuya:L_CollarBone_01
+      position: {x: -0.09107181, y: 0.0038194265, z: -2.1462584e-16}
+      rotation: {x: 0.0005987582, y: 0.005864618, z: -0.21991253, w: 0.9755018}
+      scale: {x: 0.99999785, y: 1.0000026, z: 0.9999998}
+    - name: walk_ML21S719_14_nagaiyuya:L_Elbow_01
+      parentName: walk_ML21S719_14_nagaiyuya:L_Shoulder_01
+      position: {x: -0.2151798, y: 0.00033918873, z: -0.004808929}
+      rotation: {x: 0.000053073676, y: -0.0009359948, z: -0.002984904, w: 0.9999951}
+      scale: {x: 1.0000014, y: 1.0000017, z: 1.0000006}
+    - name: walk_ML21S719_14_nagaiyuya:L_Wrist_01
+      parentName: walk_ML21S719_14_nagaiyuya:L_Elbow_01
+      position: {x: -0.20803791, y: -0.0015836201, z: 0.0052794456}
+      rotation: {x: -0.00000012412244, y: 0.000000058199117, z: 0.0034802076, w: 0.999994}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000002}
+    - name: walk_ML21S719_14_nagaiyuya:L_Index_Finger_01
+      parentName: walk_ML21S719_14_nagaiyuya:L_Wrist_01
+      position: {x: -0.1377529, y: 0.01118422, z: 0.040603183}
+      rotation: {x: 0.00000012820433, y: 0.023931472, z: 0.00000014150464, w: 0.99971366}
+      scale: {x: 1.0000001, y: 1, z: 1.0000004}
+    - name: walk_ML21S719_14_nagaiyuya:L_Index_Finger_02
+      parentName: walk_ML21S719_14_nagaiyuya:L_Index_Finger_01
+      position: {x: -0.046487797, y: 0, z: 8.881784e-18}
+      rotation: {x: -0.000000010145162, y: -0.019800337, z: -0.0000002109062, w: 0.999804}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Index_Finger_03
+      parentName: walk_ML21S719_14_nagaiyuya:L_Index_Finger_02
+      position: {x: -0.033645343, y: 0, z: 2.5535128e-17}
+      rotation: {x: -0.000000037093244, y: -0.036337584, z: 0.000000007878332, w: 0.9993396}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000001}
+    - name: walk_ML21S719_14_nagaiyuya:L_Index_Finger_04
+      parentName: walk_ML21S719_14_nagaiyuya:L_Index_Finger_03
+      position: {x: -0.034550026, y: -6.82121e-15, z: 1.2434498e-16}
+      rotation: {x: 0.000000003028833, y: 0.03220782, z: 0.0000000053764952, w: 0.9994812}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_01
+      parentName: walk_ML21S719_14_nagaiyuya:L_Wrist_01
+      position: {x: -0.14498223, y: 0.008252611, z: 0.0086272955}
+      rotation: {x: 0.00000009058396, y: 0.016739259, z: 0.0000000016120508, w: 0.99985987}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_02
+      parentName: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_01
+      position: {x: -0.058145285, y: 2.842171e-16, z: 4.4408918e-17}
+      rotation: {x: -0.00000002280473, y: -0.02971978, z: -0.000000008829974, w: 0.9995583}
+      scale: {x: 0.99999976, y: 1, z: 0.99999994}
+    - name: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_03
+      parentName: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_02
+      position: {x: -0.021417161, y: -9.947598e-15, z: 1.8429702e-16}
+      rotation: {x: 0.000000027252916, y: 0.0016865243, z: -0.00000008874173, w: 0.99999857}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_04
+      parentName: walk_ML21S719_14_nagaiyuya:L_Middle_Finger_03
+      position: {x: -0.04922763, y: -5.684342e-16, z: 5.6621373e-16}
+      rotation: {x: -0.00000009606129, y: 0.011297349, z: 0.000000097794114, w: 0.99993616}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: walk_ML21S719_14_nagaiyuya:L_Thumb_01
+      parentName: walk_ML21S719_14_nagaiyuya:L_Wrist_01
+      position: {x: -0.040156946, y: -0.013462412, z: 0.046720307}
+      rotation: {x: -0.0123060215, y: 0.3205402, z: -0.022640292, w: 0.9468844}
+      scale: {x: 1.000001, y: 1.0000001, z: 1.0000006}
+    - name: walk_ML21S719_14_nagaiyuya:L_Thumb_02
+      parentName: walk_ML21S719_14_nagaiyuya:L_Thumb_01
+      position: {x: -0.055079713, y: -0.005530557, z: 0.003132891}
+      rotation: {x: -0.01154267, y: -0.011244768, z: 0.01129211, w: 0.9998064}
+      scale: {x: 0.99999845, y: 1, z: 1.000002}
+    - name: walk_ML21S719_14_nagaiyuya:L_Thumb_03
+      parentName: walk_ML21S719_14_nagaiyuya:L_Thumb_02
+      position: {x: -0.036390286, y: -0.002645049, z: 0.00026518313}
+      rotation: {x: -0.0014430922, y: 0.007948355, z: -0.011112153, w: 0.9999057}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000004}
+    - name: walk_ML21S719_14_nagaiyuya:L_Thumb_04
+      parentName: walk_ML21S719_14_nagaiyuya:L_Thumb_03
+      position: {x: -0.040737875, y: -0.005681095, z: -0.003180904}
+      rotation: {x: -0.00000014352946, y: -0.12993266, z: -0.000000025440679, w: 0.9915228}
+      scale: {x: 0.99999946, y: 1, z: 1.0000004}
+    - name: walk_ML21S719_14_nagaiyuya:L_Little_Ring
+      parentName: walk_ML21S719_14_nagaiyuya:L_Wrist_01
+      position: {x: -0.039241403, y: 0.008252611, z: -0.021407446}
+      rotation: {x: 0.000000047038295, y: -0.15945369, z: 0.00000006146622, w: 0.98720545}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000002}
+    - name: walk_ML21S719_14_nagaiyuya:L_Little_Finger_01
+      parentName: walk_ML21S719_14_nagaiyuya:L_Little_Ring
+      position: {x: -0.09031512, y: -0.017384175, z: 0.00075149164}
+      rotation: {x: 0.000000043597243, y: 0.10499325, z: -0.00000014053828, w: 0.994473}
+      scale: {x: 0.99999976, y: 0.99999994, z: 1.0000005}
+    - name: walk_ML21S719_14_nagaiyuya:L_Little_Finger_02
+      parentName: walk_ML21S719_14_nagaiyuya:L_Little_Finger_01
+      position: {x: -0.039715074, y: 1.4779288e-14, z: 0.00031280285}
+      rotation: {x: -0.00000004792869, y: 0.044732485, z: 0.000000043031932, w: 0.99899906}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: walk_ML21S719_14_nagaiyuya:L_Little_Finger_03
+      parentName: walk_ML21S719_14_nagaiyuya:L_Little_Finger_02
+      position: {x: -0.015852015, y: 3.9790393e-15, z: -0.00015655083}
+      rotation: {x: 0.000000046387743, y: -0.012075218, z: 0.000000032260935, w: 0.9999271}
+      scale: {x: 1.000001, y: 1.0000004, z: 1.0000001}
+    - name: walk_ML21S719_14_nagaiyuya:L_Little_Finger_04
+      parentName: walk_ML21S719_14_nagaiyuya:L_Little_Finger_03
+      position: {x: -0.029460805, y: -9.094947e-15, z: 0.0019926874}
+      rotation: {x: -0.00000010419114, y: 0.022276387, z: -0.000000011437681, w: 0.99975187}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_01
+      parentName: walk_ML21S719_14_nagaiyuya:L_Little_Ring
+      position: {x: -0.08651461, y: -0.005637554, z: 0.029117325}
+      rotation: {x: 0.000000057113837, y: 0.14226854, z: -0.000000099158534, w: 0.9898281}
+      scale: {x: 0.99999976, y: 0.99999994, z: 1.0000005}
+    - name: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_02
+      parentName: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_01
+      position: {x: -0.06428766, y: 9.094947e-15, z: -0.0005461008}
+      rotation: {x: -0.000000055501374, y: -0.0061277733, z: 0.000000021370413, w: 0.9999812}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_03
+      parentName: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_02
+      position: {x: -0.040174976, y: -9.663381e-15, z: 0.00035922183}
+      rotation: {x: -0.000000003417937, y: 0.02741485, z: 0.00000004881442, w: 0.9996242}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_04
+      parentName: walk_ML21S719_14_nagaiyuya:L_Ring_Finger_03
+      position: {x: -0.019529393, y: 9.094947e-15, z: 0.00012548627}
+      rotation: {x: -0.000000049469417, y: -0.003906122, z: -0.00000004868077, w: 0.99999243}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:R_CollarBone_01
+      parentName: walk_ML21S719_14_nagaiyuya:Spine_03
+      position: {x: -0.06323468, y: -0.0009757246, z: 0.040484097}
+      rotation: {x: 0.5986786, y: 0.3762764, z: 0.4239267, w: -0.5659383}
+      scale: {x: 1.0000011, y: 1.000002, z: 1.0000019}
+    - name: walk_ML21S719_14_nagaiyuya:R_Shoulder_01
+      parentName: walk_ML21S719_14_nagaiyuya:R_CollarBone_01
+      position: {x: 0.0910723, y: -0.0038184652, z: 2.1956707e-16}
+      rotation: {x: 0.0005442797, y: 0.005331798, z: -0.21937007, w: 0.97562706}
+      scale: {x: 0.9999982, y: 1.0000007, z: 0.9999994}
+    - name: walk_ML21S719_14_nagaiyuya:R_Elbow_01
+      parentName: walk_ML21S719_14_nagaiyuya:R_Shoulder_01
+      position: {x: 0.21631755, y: -0.0005983799, z: 0.0043708603}
+      rotation: {x: -0.0000000079564435, y: 0.000000029028275, z: -0.0049779112, w: 0.99998766}
+      scale: {x: 1.0000012, y: 1.0000024, z: 1.0000024}
+    - name: walk_ML21S719_14_nagaiyuya:R_Wrist_01
+      parentName: walk_ML21S719_14_nagaiyuya:R_Elbow_01
+      position: {x: 0.20803726, y: 0.0016920951, z: -0.0052793995}
+      rotation: {x: -0.000000053465275, y: -0.000000030474112, z: 0.0034802384, w: 0.9999939}
+      scale: {x: 1.0000002, y: 0.99999905, z: 0.99999785}
+    - name: walk_ML21S719_14_nagaiyuya:R_Index_Finger_01
+      parentName: walk_ML21S719_14_nagaiyuya:R_Wrist_01
+      position: {x: 0.14100313, y: -0.011189999, z: -0.038718536}
+      rotation: {x: -0.00005813184, y: -0.0032224227, z: -0.0024297743, w: 0.99999183}
+      scale: {x: 1, y: 1.0000002, z: 0.9999999}
+    - name: walk_ML21S719_14_nagaiyuya:R_Index_Finger_02
+      parentName: walk_ML21S719_14_nagaiyuya:R_Index_Finger_01
+      position: {x: 0.046487797, y: 9.094947e-15, z: -4.1868162e-10}
+      rotation: {x: 0.00000006261857, y: -0.01980038, z: 0.000000029002928, w: 0.99980396}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000004}
+    - name: walk_ML21S719_14_nagaiyuya:R_Index_Finger_03
+      parentName: walk_ML21S719_14_nagaiyuya:R_Index_Finger_02
+      position: {x: 0.033645347, y: 1.9042544e-14, z: -0.000000008760031}
+      rotation: {x: 0.000000024129577, y: -0.03633751, z: -0.000000018972745, w: 0.99933964}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: walk_ML21S719_14_nagaiyuya:R_Index_Finger_04
+      parentName: walk_ML21S719_14_nagaiyuya:R_Index_Finger_03
+      position: {x: 0.03454978, y: -1.0516033e-14, z: 0.00000001641748}
+      rotation: {x: -0.00000014237854, y: 0.032207765, z: 0.000000005912937, w: 0.9994812}
+      scale: {x: 1.0000001, y: 1, z: 0.99999976}
+    - name: walk_ML21S719_14_nagaiyuya:R_Middle_Finger_01
+      parentName: walk_ML21S719_14_nagaiyuya:R_Wrist_01
+      position: {x: 0.14823249, y: -0.00826, z: -0.006742638}
+      rotation: {x: -0.0000314809, y: -0.0029173116, z: -0.0018823119, w: 0.99999404}
+      scale: {x: 0.99999994, y: 1.0000006, z: 1.0000004}
+    - name: walk_ML21S719_14_nagaiyuya:R_Middle_Finger_02
+      parentName: walk_ML21S719_14_nagaiyuya:R_Middle_Finger_01
+      position: {x: 0.058145285, y: -3.694822e-15, z: -0.000000041603464}
+      rotation: {x: -0.000000009710302, y: -0.02971987, z: -0.00000006831174, w: 0.9995583}
+      scale: {x: 0.99999976, y: 1, z: 1.0000006}
+    - name: walk_ML21S719_14_nagaiyuya:R_Middle_Finger_03
+      parentName: walk_ML21S719_14_nagaiyuya:R_Middle_Finger_02
+      position: {x: 0.021417122, y: 2.245315e-14, z: -0.0000000012982633}
+      rotation: {x: 0.0000000985781, y: 0.0016866063, z: -5.1565724e-10, w: 0.99999857}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000011}
+    - name: walk_ML21S719_14_nagaiyuya:R_Middle_Finger_04
+      parentName: walk_ML21S719_14_nagaiyuya:R_Middle_Finger_03
+      position: {x: 0.044985805, y: -2.7000624e-14, z: -0.00065008044}
+      rotation: {x: -0.00000011304801, y: 0.011297236, z: 0.000000037624087, w: 0.9999362}
+      scale: {x: 1.0000004, y: 0.9999997, z: 0.9999998}
+    - name: walk_ML21S719_14_nagaiyuya:R_Thumb_01
+      parentName: walk_ML21S719_14_nagaiyuya:R_Wrist_01
+      position: {x: 0.04340719, y: 0.013459999, z: -0.044835668}
+      rotation: {x: 0.00000009144254, y: 0.28300267, z: -0.00000000885083, w: 0.95911914}
+      scale: {x: 1.0000007, y: 1.0000001, z: 1.000001}
+    - name: walk_ML21S719_14_nagaiyuya:R_Thumb_02
+      parentName: walk_ML21S719_14_nagaiyuya:R_Thumb_01
+      position: {x: 0.055079658, y: 0.0055299997, z: -0.0031329016}
+      rotation: {x: -0.011530853, y: -0.011243186, z: 0.011341137, w: 0.999806}
+      scale: {x: 0.9999998, y: 1.0000021, z: 1.0000011}
+    - name: walk_ML21S719_14_nagaiyuya:R_Thumb_03
+      parentName: walk_ML21S719_14_nagaiyuya:R_Thumb_02
+      position: {x: 0.03639032, y: 0.0026400003, z: -0.0002651799}
+      rotation: {x: -0.0014465447, y: 0.008006021, z: -0.011207511, w: 0.9999041}
+      scale: {x: 0.9999998, y: 0.9999996, z: 1.0000007}
+    - name: walk_ML21S719_14_nagaiyuya:R_Thumb_04
+      parentName: walk_ML21S719_14_nagaiyuya:R_Thumb_03
+      position: {x: 0.04073791, y: 0.00569, z: 0.0031809418}
+      rotation: {x: -0.00000006523533, y: -0.12993288, z: 0.000000015404881, w: 0.9915228}
+      scale: {x: 0.99999994, y: 0.99999946, z: 0.9999996}
+    - name: walk_ML21S719_14_nagaiyuya:R_Rittle_Ring
+      parentName: walk_ML21S719_14_nagaiyuya:R_Wrist_01
+      position: {x: 0.042491592, y: -0.00826, z: 0.023292061}
+      rotation: {x: 0.00000008945171, y: -0.15945366, z: -0.00000001830407, w: 0.98720545}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000015}
+    - name: walk_ML21S719_14_nagaiyuya:R_Rittle_Finger_01
+      parentName: walk_ML21S719_14_nagaiyuya:R_Rittle_Ring
+      position: {x: 0.09031517, y: 0.01739, z: -0.00075147167}
+      rotation: {x: -0.000000028143074, y: 0.104993284, z: 0.00000004092088, w: 0.9944729}
+      scale: {x: 0.99999976, y: 1.0000004, z: 1.0000005}
+    - name: walk_ML21S719_14_nagaiyuya:R_Rittle_Finger_02
+      parentName: walk_ML21S719_14_nagaiyuya:R_Rittle_Finger_01
+      position: {x: 0.03971505, y: -8.5265126e-16, z: -0.0003127991}
+      rotation: {x: -0.000000021113886, y: 0.04473247, z: -0.000000107847555, w: 0.99899906}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.0000004}
+    - name: walk_ML21S719_14_nagaiyuya:R_Rittle_Finger_03
+      parentName: walk_ML21S719_14_nagaiyuya:R_Rittle_Finger_02
+      position: {x: 0.015851995, y: 1.4210854e-15, z: 0.00015658984}
+      rotation: {x: 0.000000022548104, y: -0.012075249, z: 0.00000012184582, w: 0.9999271}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1.0000002}
+    - name: walk_ML21S719_14_nagaiyuya:R_Rittle_Finger_04
+      parentName: walk_ML21S719_14_nagaiyuya:R_Rittle_Finger_03
+      position: {x: 0.02946088, y: 0, z: -0.0019927165}
+      rotation: {x: -0.00000006048755, y: 0.022276355, z: -0.00000004234833, w: 0.9997519}
+      scale: {x: 1.0000002, y: 1, z: 0.9999999}
+    - name: walk_ML21S719_14_nagaiyuya:R_Ring_Finger_01
+      parentName: walk_ML21S719_14_nagaiyuya:R_Rittle_Ring
+      position: {x: 0.08651466, y: 0.00564, z: -0.029117297}
+      rotation: {x: 0.000000011743088, y: 0.14226854, z: 0.000000013472416, w: 0.9898281}
+      scale: {x: 0.99999964, y: 1.0000011, z: 1.000001}
+    - name: walk_ML21S719_14_nagaiyuya:R_Ring_Finger_02
+      parentName: walk_ML21S719_14_nagaiyuya:R_Ring_Finger_01
+      position: {x: 0.06428761, y: -6.252776e-15, z: 0.0005460904}
+      rotation: {x: -0.00000013461329, y: -0.006127744, z: -0.000000006452304, w: 0.9999813}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000006}
+    - name: walk_ML21S719_14_nagaiyuya:R_Ring_Finger_03
+      parentName: walk_ML21S719_14_nagaiyuya:R_Ring_Finger_02
+      position: {x: 0.040174928, y: 8.81073e-15, z: -0.00035919188}
+      rotation: {x: 0.00000003484257, y: 0.02741485, z: 0.000000018343176, w: 0.99962413}
+      scale: {x: 1.0000008, y: 1.0000002, z: 1.000001}
+    - name: walk_ML21S719_14_nagaiyuya:R_Ring_Finger_04
+      parentName: walk_ML21S719_14_nagaiyuya:R_Ring_Finger_03
+      position: {x: 0.019529575, y: -2.2737367e-15, z: -0.00012553367}
+      rotation: {x: -0.000000008537875, y: -0.0039061508, z: 0.000000011168969, w: 0.99999243}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1.0000001}
+    - name: walk_ML21S719_14_nagaiyuya:R_Hip_01
+      parentName: walk_ML21S719_14_nagaiyuya:Loot_Hip
+      position: {x: 0.06471734, y: 0.060338777, z: 0.013781678}
+      rotation: {x: 0.706934, y: 0.015632482, z: 0.01563251, w: -0.70693403}
+      scale: {x: 1.0000005, y: 1.0000031, z: 1.0000018}
+    - name: walk_ML21S719_14_nagaiyuya:R_Reg_01
+      parentName: walk_ML21S719_14_nagaiyuya:R_Hip_01
+      position: {x: 0.35864338, y: 0.0024476564, z: -0.0005530963}
+      rotation: {x: -0, y: -0.0000000018626449, z: -0.079030596, w: -0.9968722}
+      scale: {x: 1.0000017, y: 1.0000006, z: 1.0000013}
+    - name: walk_ML21S719_14_nagaiyuya:R_Foot_01
+      parentName: walk_ML21S719_14_nagaiyuya:R_Reg_01
+      position: {x: 0.41257185, y: -0.0064026383, z: 0.00038559455}
+      rotation: {x: -0.000000061439025, y: -0.0000000093761345, z: 0.48383486, w: -0.87515926}
+      scale: {x: 0.99999946, y: 1.0000002, z: 1.0000001}
+    - name: walk_ML21S719_14_nagaiyuya:R_Toe_01
+      parentName: walk_ML21S719_14_nagaiyuya:R_Foot_01
+      position: {x: 0.10587956, y: 0.00039002835, z: -8.219105e-12}
+      rotation: {x: -0.00000001655221, y: -0.00000015909893, z: -0.33100685, w: 0.9436284}
+      scale: {x: 1.0000033, y: 0.9999957, z: 0.9999993}
+    - name: walk_ML21S719_14_nagaiyuya:R_Toe_02
+      parentName: walk_ML21S719_14_nagaiyuya:R_Toe_01
+      position: {x: 0.13487859, y: 0.0019977, z: 0.000000001654747}
+      rotation: {x: -0.000000011633191, y: -0.7071067, z: -0.000000033070293, w: 0.7071068}
+      scale: {x: 1.0000002, y: 0.9999997, z: 0.99999994}
+    - name: walk_ML21S719_14_nagaiyuya:Daney_Grp
+      parentName: walk_ML21S719_14_nagaiyuya:group1
+      position: {x: -0, y: -0.00010343419, z: -0.04448581}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2.032, y: 2.032, z: 2.032}
+    - name: walk_ML21S719_14_nagaiyuya:Button1
+      parentName: walk_ML21S719_14_nagaiyuya:Daney_Grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:Button2
+      parentName: walk_ML21S719_14_nagaiyuya:Daney_Grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:Button3
+      parentName: walk_ML21S719_14_nagaiyuya:Daney_Grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:Hair
+      parentName: walk_ML21S719_14_nagaiyuya:Daney_Grp
+      position: {x: 3.774341e-33, y: 0.000050902654, z: 0.021892626}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.492126, y: 0.492126, z: 0.492126}
+    - name: walk_ML21S719_14_nagaiyuya:Head
+      parentName: walk_ML21S719_14_nagaiyuya:Daney_Grp
+      position: {x: -0, y: 0.08800999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:pCube5
+      parentName: walk_ML21S719_14_nagaiyuya:Head
+      position: {x: -0, y: -0.087959096, z: 0.021892626}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.492126, y: 0.492126, z: 0.492126}
+    - name: walk_ML21S719_14_nagaiyuya:Inner
+      parentName: walk_ML21S719_14_nagaiyuya:Daney_Grp
+      position: {x: -0, y: 0.000050902654, z: 0.021892626}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.492126, y: 0.492126, z: 0.492126}
+    - name: walk_ML21S719_14_nagaiyuya:L_Eye
+      parentName: walk_ML21S719_14_nagaiyuya:Daney_Grp
+      position: {x: -0.00020881383, y: 0.08800885, z: 0.0003094466}
+      rotation: {x: -4.440892e-16, y: -1.110223e-16, z: -1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:L_Hand
+      parentName: walk_ML21S719_14_nagaiyuya:Daney_Grp
+      position: {x: -0, y: 0.000050902654, z: 0.021892626}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.492126, y: 0.492126, z: 0.492126}
+    - name: walk_ML21S719_14_nagaiyuya:L_Shoes
+      parentName: walk_ML21S719_14_nagaiyuya:Daney_Grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:Neck
+      parentName: walk_ML21S719_14_nagaiyuya:Daney_Grp
+      position: {x: -0, y: 0.000050902654, z: 0.021892626}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.492126, y: 0.492126, z: 0.492126}
+    - name: walk_ML21S719_14_nagaiyuya:Outer
+      parentName: walk_ML21S719_14_nagaiyuya:Daney_Grp
+      position: {x: -0, y: 0.000050902654, z: 0.021892626}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.492126, y: 0.492126, z: 0.492126}
+    - name: walk_ML21S719_14_nagaiyuya:Pants_Grp
+      parentName: walk_ML21S719_14_nagaiyuya:Daney_Grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:Pants
+      parentName: walk_ML21S719_14_nagaiyuya:Pants_Grp
+      position: {x: -0, y: 0.000050902654, z: 0.021892626}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.492126, y: 0.492126, z: 0.492126}
+    - name: walk_ML21S719_14_nagaiyuya:Pants_Button1
+      parentName: walk_ML21S719_14_nagaiyuya:Pants_Grp
+      position: {x: 0.011780879, y: -0.23764877, z: 0.012338862}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.492126, y: 0.492126, z: 0.492126}
+    - name: walk_ML21S719_14_nagaiyuya:Pants_Button2
+      parentName: walk_ML21S719_14_nagaiyuya:Pants_Grp
+      position: {x: 0.02745585, y: -0.22814609, z: 0.026709456}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.492126, y: 0.492126, z: 0.492126}
+    - name: walk_ML21S719_14_nagaiyuya:Pants_Button3
+      parentName: walk_ML21S719_14_nagaiyuya:Pants_Grp
+      position: {x: -0.011780879, y: -0.23764877, z: 0.012338862}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.492126, y: 0.492126, z: 0.492126}
+    - name: walk_ML21S719_14_nagaiyuya:Pants_Button4
+      parentName: walk_ML21S719_14_nagaiyuya:Pants_Grp
+      position: {x: -0.02745585, y: -0.22814609, z: 0.026709456}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.492126, y: 0.492126, z: 0.492126}
+    - name: walk_ML21S719_14_nagaiyuya:Pants_MainButton
+      parentName: walk_ML21S719_14_nagaiyuya:Pants_Grp
+      position: {x: 0.00022481376, y: -0.24173532, z: 0.010240433}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.492126, y: 0.492126, z: 0.492126}
+    - name: walk_ML21S719_14_nagaiyuya:R_Eye
+      parentName: walk_ML21S719_14_nagaiyuya:Daney_Grp
+      position: {x: 0.03534821, y: 0.08800881, z: 0.00030945672}
+      rotation: {x: -4.440892e-16, y: -1.110223e-16, z: -1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:R_Hand
+      parentName: walk_ML21S719_14_nagaiyuya:Daney_Grp
+      position: {x: -0, y: 0.000050902654, z: 0.021892626}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.492126, y: 0.492126, z: 0.492126}
+    - name: walk_ML21S719_14_nagaiyuya:R_Shoes
+      parentName: walk_ML21S719_14_nagaiyuya:Daney_Grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: walk_ML21S719_14_nagaiyuya:Tongue
+      parentName: walk_ML21S719_14_nagaiyuya:Daney_Grp
+      position: {x: 6.4415727e-18, y: -0.36888033, z: 0.025210232}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.492126, y: 0.492126, z: 0.492126}
+    - name: walk_ML21S719_14_nagaiyuya:Tooth_Bottom
+      parentName: walk_ML21S719_14_nagaiyuya:Daney_Grp
+      position: {x: -0.0000056980302, y: -0.37256324, z: 0.007823363}
+      rotation: {x: -9.298118e-16, y: 1.9602375e-16, z: -2.0816682e-16, w: 1}
+      scale: {x: 0.492126, y: 0.492126, z: 0.492126}
+    - name: walk_ML21S719_14_nagaiyuya:Tooth_Top
+      parentName: walk_ML21S719_14_nagaiyuya:Daney_Grp
+      position: {x: 0.000048945196, y: -0.37644336, z: 0.0075890427}
+      rotation: {x: -1.6653345e-16, y: -5.551115e-17, z: -2.7755576e-16, w: 1}
+      scale: {x: 0.492126, y: 0.492126, z: 0.492126}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
